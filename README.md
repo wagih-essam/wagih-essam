@@ -1,9 +1,12 @@
-- Hi, I’m @wagih-essam
-- I’m interested in Software Testing
-- I'm Certified ISTQB-Foundation Level Tester, ISTQB-Agile Tester and ISTQB-Mobile Application Tester.
-- I learned Manual Testing and Test Automation Selenium WebDriver using - Python and Java - , Maven , TestNG and Cucumber with BDD using Gherkin syntax.
-- I’m currently learning Test Automation Selenium WebDriver using - JavaScript and C# - , Robot Framework, Appium and Performance Testing.
-- How to reach me - Linkedin : https://www.linkedin.com/in/wagie-essam/
+- Hi, I’m @wagih-essam,
+- Software testing engineer experienced in Manual, API and automation testing.
+- Skilled in Selenium, Cucumber, Postman, RestAssured and Appium "In progress."
+- Worked on Web and Mobile application. Also, I have experience in Telecom Testing.
+- Seeking a position in a fast-paced challenging environment where I can sharpen my skills.
+
+- 
+- How to reach me - Linkedin : wagie-essam
+-                 - e-mail   : wageh_essam2010@yahoo.com
 
 <!---
 wagih-essam/wagih-essam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
