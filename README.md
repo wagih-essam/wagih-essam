@@ -5,8 +5,8 @@
 - Seeking a position in a fast-paced challenging environment where I can sharpen my skills.
 
 - 
-- How to reach me - e-mail   : wageh_essam2010@yahoo.com
--                 - Linkedin : wagih-essam
+- How to reach me - Linkedin : wagihessam
+- How to reach me - e-mail   : wageh_essam2010@yahoo
 
 
 
