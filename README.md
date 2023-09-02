@@ -6,7 +6,7 @@
 
 - 
 - How to reach me - Linkedin : wagihessam
-- How to reach me - e-mail   : wageh_essam2010@yahoo
+- How to reach me - e-mail   : wageh_essam2010@yahoo.com
 
 
 
