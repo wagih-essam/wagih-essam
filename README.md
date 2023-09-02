@@ -6,7 +6,9 @@
 
 - 
 - How to reach me - Linkedin : wagie-essam
--                 - e-mail   : wageh_essam2010@yahoo.com
+-                 - e-mail   : wageh_essam2010@yahoo
+
+
 
 <!---
 wagih-essam/wagih-essam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
